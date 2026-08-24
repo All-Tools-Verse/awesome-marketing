@@ -225,6 +225,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google Analytics for Email](https://ga-dev-tools.web.app/ga4/campaign-url-builder/) - Review - Tool to track email marketing campaigns using Google Analytics.
   - [Campaign Monitor](https://www.campaignmonitor.com) - Review - Email marketing platform with powerful analytics and segmentation tools.
   - [HubSpot](https://www.hubspot.com) - Review - CRM platform with integrated email analytics and performance tracking features.
+  - [UTM Builder](https://alltoolsverse.com/tools/utm-builder/) - Review - Builds tagged campaign URLs for email and other marketing channels with UTM source, medium, campaign, term, and content parameters.
 
 ### Email Design
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
